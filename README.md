@@ -37,7 +37,7 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_RF: Random Forest model training.
 - 3_MLP: Multi-Layer Perceptron model training.
 
-**5_SHAPanalysis**: 
+**5_SHAPanalysis**: SHAP analysis for the PF prediction model.
 
 **6_meltingpointAPI**: 
 - 1_lowvar: 
