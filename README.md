@@ -8,7 +8,7 @@ High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides (HTPS
 
 | **AUTHORS** |Shengluo Ma, Shenghong Ju            |
 |:-------------:|--------------------------------------------------|
-| **VERSION** | V1.0 / July,2023                               |
+| **VERSION** | V1.0 / November,2023                               |
 | **EMAILS**  | shenghong.ju@sjtu.edu.cn                         |
 | **GROUP HOME**  | https://ju.sjtu.edu.cn/en/                         |
 
