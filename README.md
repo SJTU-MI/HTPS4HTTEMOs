@@ -27,34 +27,29 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 1_lowvar: Descriptors retrieved from the MP database
 - 2_corfilter: Descriptors retrieved from Xenonpy
 
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
+**3_featurecreation_bySR**: Power factor (PF) data collection and initial descriptor creation.
+- 1_PC: Descriptors retrieved from the MP database
+- 2_SC: Descriptors retrieved from Xenonpy
+- 3_DC: Descriptors retrieved from Xenonpy
+
+**4_PFmodel**: Power factor (PF) data collection and initial descriptor creation.
+- 1_XG: Descriptors retrieved from the MP database
+- 2_RF: Descriptors retrieved from Xenonpy
+- 3_MLP: Descriptors retrieved from Xenonpy
+
+**5_SHAPanalysis**: Power factor (PF) data collection and initial descriptor creation.
+
+**6_meltingpointAPI**: Power factor (PF) data collection and initial descriptor creation.
 - 1_lowvar: Descriptors retrieved from the MP database
 - 2_corfilter: Descriptors retrieved from Xenonpy
 
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
+**7_HTP_virtualscreening**: Power factor (PF) data collection and initial descriptor creation.
 - 1_lowvar: Descriptors retrieved from the MP database
 - 2_corfilter: Descriptors retrieved from Xenonpy
 
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
+**8_TE_results**: Power factor (PF) data collection and initial descriptor creation.
 - 1_lowvar: Descriptors retrieved from the MP database
 - 2_corfilter: Descriptors retrieved from Xenonpy
-
-  **2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
-
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
-
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
-
-  **2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
-
 
 ## Authors
 
