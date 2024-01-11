@@ -28,9 +28,9 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_corfilter: Screening features through correlation coefficient.
 
 **3_featurecreation_bySR**: Feature creation process by symbolic regression (SR).
-- 1_PC: 
-- 2_SC: 
-- 3_DC: 
+- 1_PC: Feature creation based on Pearson correlation (PC).
+- 2_SC: Feature creation based on Spearman correlation (SC).
+- 3_DC: Feature creation based on Distance correlation (DC).
 
 **4_PFmodel**: 
 - 1_XG: 
