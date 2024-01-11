@@ -2,6 +2,13 @@
 High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides (HTPS4HTTEMOs)
 ## Description
 
+## Installation
+### Files loading and environment setup:
+
+To download, clone this repository:<br>
+````
+git clone https://github.com/SJTU-MI/HTPS4HTTEMOs.git
+````
 
 
 ## Authors
