@@ -32,10 +32,10 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_SC: Feature creation based on Spearman correlation (SC).
 - 3_DC: Feature creation based on Distance correlation (DC).
 
-**4_PFmodel**: 
-- 1_XG: 
-- 2_RF: 
-- 3_MLP: 
+**4_PFmodel**: PF prediction model training.
+- 1_XG: XGBoost model training.
+- 2_RF: Random Forest model training.
+- 3_MLP: Multi-Layer Perceptron model training.
 
 **5_SHAPanalysis**: 
 
