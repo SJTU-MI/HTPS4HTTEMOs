@@ -39,8 +39,8 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 
 **5_SHAPanalysis**: SHAP analysis for the PF prediction model.
 
-**6_meltingpointAPI**: 
-- 1_prepare4API: 
+**6_meltingpointAPI**: API for the [melting point prediction model](https://www.pnas.org/doi/10.1073/pnas.2209630119).
+- 1_prepare4API: Prepare the API json file from MP database for melting point prediction.
 - 2_meltingpoint_predict:
 - 3_meltingpoint_result: 
 
