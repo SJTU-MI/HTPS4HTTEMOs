@@ -14,6 +14,14 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 ### Code in the pmbo folder
 **1_data4PF**: Gaussian process regression model <br>
 
+- root_folder
+  - subfolder_1
+    - file_1_1.txt
+    - file_1_2.txt
+  - subfolder_2
+    - file_2_1.txt
+    - file_2_2.txt
+
 
 ## Authors
 
