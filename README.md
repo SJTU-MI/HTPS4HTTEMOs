@@ -44,13 +44,11 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_meltingpoint_predict: Melting point prediction.
 - 3_meltingpoint_result: Melting point prediction results.
 
-**7_HTP_virtualscreening**: High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides.
+**7_HTP_virtualscreening**: Virtual screening for High-Temperature Thermoelectric Metal Oxides.
 - 1_MPscreening: High-Throughput Screening based on MP database.
 - 2_MLprediction: PF prediction of three ML models.
 
-**8_TE_results**: 
-- 1_lowvar: 
-- 2_corfilter: 
+**8_PF_calresults**: The PF results by High-Throughput (HTP) DFT calculations.
 
 ## Authors
 
