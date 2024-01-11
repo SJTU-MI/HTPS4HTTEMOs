@@ -24,10 +24,10 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 3_data4PF: The PF data and initial descriptor.
 
 **2_featurefiltering**: Feature down-selection process.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
+- 1_lowvar: Screening features through variance.
+- 2_corfilter: Screening features through correlation coefficient.
 
-**3_featurecreation_bySR**: Power factor (PF) data collection and initial descriptor creation.
+**3_featurecreation_bySR**: Feature creation process by symbolic regression (SR).
 - 1_PC: Descriptors retrieved from the MP database
 - 2_SC: Descriptors retrieved from Xenonpy
 - 3_DC: Descriptors retrieved from Xenonpy
