@@ -1,2 +1,2 @@
 # HTPS4HTTEMOs
-High-Temperature Thermoelectric Metal Oxides 
+High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides
