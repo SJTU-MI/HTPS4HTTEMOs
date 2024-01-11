@@ -23,7 +23,7 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_Xenonpy_features: Descriptors retrieved from Xenonpy
 - 3_data4PF: The PF data and initial descriptor.
 
-**2_featurefiltering**: Power factor (PF) data collection and initial descriptor creation.
+**2_featurefiltering**: Feature down-selection process.
 - 1_lowvar: Descriptors retrieved from the MP database
 - 2_corfilter: Descriptors retrieved from Xenonpy
 
