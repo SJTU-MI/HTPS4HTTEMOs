@@ -9,11 +9,8 @@ To download, clone this repository:<br>
 git clone https://github.com/SJTU-MI/HTPS4HTTEMOs.git
 ````
 ### Package requirements:
-Some packages need to be installed on demand, such as [Pymatgen](https://pymatgen.org/), Xenonpy, scikit-learn.
+Some packages need to be installed on demand, such as [Pymatgen](https://pymatgen.org/), [Xenonpy](https://github.com/yoshida-lab/XenonPy), [scikit-learn](https://scikit-learn.org/stable/), .
 
-
-
-and [RadonPy](https://github.com/RadonPy/RadonPy).
 
 
 ## Authors
