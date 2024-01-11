@@ -11,7 +11,7 @@ git clone https://github.com/SJTU-MI/HTPS4HTTEMOs.git
 ### Package requirements:
 Some packages need to be installed on demand, such as [Pymatgen](https://pymatgen.org/), [Xenonpy](https://github.com/yoshida-lab/XenonPy), [scikit-learn](https://scikit-learn.org/stable/), [BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization).
 ## Try the desired parts of the project:
-### Code in the pmbo folder
+### Code in the HTPS4HTTEMOs folder
 **1_data4PF**: Power factor (PF) data collection and initial descriptor creation.
 - 1_MP_api_features: Descriptors retrieved from the MP database
 - 2_Xenonpy_features: Descriptors retrieved from Xenonpy
