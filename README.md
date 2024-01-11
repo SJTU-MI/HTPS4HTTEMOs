@@ -28,28 +28,28 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 2_corfilter: Screening features through correlation coefficient.
 
 **3_featurecreation_bySR**: Feature creation process by symbolic regression (SR).
-- 1_PC: Descriptors retrieved from the MP database
-- 2_SC: Descriptors retrieved from Xenonpy
-- 3_DC: Descriptors retrieved from Xenonpy
+- 1_PC: 
+- 2_SC: 
+- 3_DC: 
 
-**4_PFmodel**: Power factor (PF) data collection and initial descriptor creation.
-- 1_XG: Descriptors retrieved from the MP database
-- 2_RF: Descriptors retrieved from Xenonpy
-- 3_MLP: Descriptors retrieved from Xenonpy
+**4_PFmodel**: 
+- 1_XG: 
+- 2_RF: 
+- 3_MLP: 
 
-**5_SHAPanalysis**: Power factor (PF) data collection and initial descriptor creation.
+**5_SHAPanalysis**: 
 
-**6_meltingpointAPI**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
+**6_meltingpointAPI**: 
+- 1_lowvar: 
+- 2_corfilter: 
 
-**7_HTP_virtualscreening**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
+**7_HTP_virtualscreening**: 
+- 1_lowvar: 
+- 2_corfilter: 
 
-**8_TE_results**: Power factor (PF) data collection and initial descriptor creation.
-- 1_lowvar: Descriptors retrieved from the MP database
-- 2_corfilter: Descriptors retrieved from Xenonpy
+**8_TE_results**: 
+- 1_lowvar: 
+- 2_corfilter: 
 
 ## Authors
 
