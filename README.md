@@ -10,6 +10,8 @@ git clone https://github.com/SJTU-MI/HTPS4HTTEMOs.git
 ````
 ### Package requirements:
 Some packages need to be installed on demand, such as [Pymatgen](https://pymatgen.org/), [Xenonpy](https://github.com/yoshida-lab/XenonPy), [scikit-learn](https://scikit-learn.org/stable/), [BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization).
+## Try the desired parts of the project:
+### Code in the pmbo folder
 
 
 
