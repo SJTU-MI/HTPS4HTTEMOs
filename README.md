@@ -40,8 +40,9 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 **5_SHAPanalysis**: SHAP analysis for the PF prediction model.
 
 **6_meltingpointAPI**: 
-- 1_lowvar: 
-- 2_corfilter: 
+- 1_prepare4API: 
+- 2_meltingpoint_predict:
+- 3_meltingpoint_result: 
 
 **7_HTP_virtualscreening**: 
 - 1_lowvar: 
