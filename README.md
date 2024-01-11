@@ -41,8 +41,8 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 
 **6_meltingpointAPI**: API for the [melting point prediction model](https://www.pnas.org/doi/10.1073/pnas.2209630119).
 - 1_prepare4API: Prepare the API json file from MP database for melting point prediction.
-- 2_meltingpoint_predict:
-- 3_meltingpoint_result: 
+- 2_meltingpoint_predict: Melting point prediction.
+- 3_meltingpoint_result: Melting point prediction results.
 
 **7_HTP_virtualscreening**: 
 - 1_lowvar: 
