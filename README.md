@@ -8,7 +8,8 @@ To download, clone this repository:<br>
 ````
 git clone https://github.com/SJTU-MI/HTPS4HTTEMOs.git
 ````
-
+### Package requirements:
+Some packages need to be installed on demand, such as Pymatgen, Xenonpy, scikit-learn.
 
 ## Authors
 
