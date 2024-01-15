@@ -33,8 +33,8 @@ Some packages need to be installed on demand, such as [Pymatgen](https://pymatge
 - 3_DC: Feature creation based on Distance correlation (DC).
 
 **4_PFmodel**: PF prediction model training.
-- 1_XG: XGBoost model training.
-- 2_RF: Random Forest model training.
+- 1_RF: Random Forest model training.
+- 2_XG: XGBoost model training.
 - 3_MLP: Multi-Layer Perceptron model training.
 
 **5_SHAPanalysis**: SHAP analysis for the PF prediction model.
