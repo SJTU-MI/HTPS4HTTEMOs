@@ -1,0 +1,1 @@
+curl --request POST --url "http://206.207.50.58:5001/MT_ML_Qijun_Hong_Predict_curl" --header "content-type:application/json" --data @melt_data.json > melt_result.json
