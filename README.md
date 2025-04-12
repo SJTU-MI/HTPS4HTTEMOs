@@ -1,5 +1,5 @@
 # HTPS4HTTEMOs
-High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides (HTPS4HTTEMOs) on small data
+High-Throughput Screening for High-Temperature Thermoelectric Metal Oxides (HTPS4HTTEMOs) on Small Data
 
 ## Publication
 Ma S, Rao Y, Huang X, et al. High-throughput discovery of metal oxides with high thermoelectric performance via interpretable feature engineering on small data[J]. Materials Today Physics, 2024, 45: 101457 [[Link](https://doi.org/10.1016/j.mtphys.2024.101457)].
